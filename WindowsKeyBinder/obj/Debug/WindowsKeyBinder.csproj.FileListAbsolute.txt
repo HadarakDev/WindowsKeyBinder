@@ -1,0 +1,13 @@
+D:\WindowsKeyBinder\WindowsKeyBinder\bin\Debug\WindowsKeyBinder.exe.config
+D:\WindowsKeyBinder\WindowsKeyBinder\bin\Debug\WindowsKeyBinder.exe
+D:\WindowsKeyBinder\WindowsKeyBinder\bin\Debug\WindowsKeyBinder.pdb
+D:\WindowsKeyBinder\WindowsKeyBinder\bin\Debug\Gma.System.MouseKeyHook.dll
+D:\WindowsKeyBinder\WindowsKeyBinder\obj\Debug\WindowsKeyBinder.csprojAssemblyReference.cache
+D:\WindowsKeyBinder\WindowsKeyBinder\obj\Debug\WindowsKeyBinder.Properties.Resources.resources
+D:\WindowsKeyBinder\WindowsKeyBinder\obj\Debug\WindowsKeyBinder.csproj.GenerateResource.cache
+D:\WindowsKeyBinder\WindowsKeyBinder\obj\Debug\WindowsKeyBinder.csproj.CoreCompileInputs.cache
+D:\WindowsKeyBinder\WindowsKeyBinder\obj\Debug\WindowsKeyBinder.csproj.CopyComplete
+D:\WindowsKeyBinder\WindowsKeyBinder\obj\Debug\WindowsKeyBinder.exe
+D:\WindowsKeyBinder\WindowsKeyBinder\obj\Debug\WindowsKeyBinder.pdb
+D:\WindowsKeyBinder\WindowsKeyBinder\obj\Debug\WindowsKeyBinder.MainForm.resources
+D:\WindowsKeyBinder\WindowsKeyBinder\obj\Debug\WindowsKeyBinder.FormBind.resources
